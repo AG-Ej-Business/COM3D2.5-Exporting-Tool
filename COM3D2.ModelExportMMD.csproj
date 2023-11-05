@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ProjectGuid>{E738FE2D-CCF4-413E-937F-8DD8B0280B88}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AssemblyName>ExportingToolMMD.Plugin</AssemblyName>
+    <AssemblyName>ModelExportTool</AssemblyName>
     <RootNamespace>COM3D2.ModelExportMMD</RootNamespace>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
